@@ -7,7 +7,7 @@ body {
   background-size: 25px 25px;
   padding-top: 150px;
   animation-name: light;
-  animation-duration: 2s;
+  animation-duration: 4s;
   animation-iteration-count: infinite;
 }
 
